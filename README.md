@@ -14,8 +14,8 @@
 
  -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpqm&layout=donut&locale=kr&theme=graywhite&show_icons=true" alt="mpqm" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mpqm&show_icons=true&locale=kr&theme=graywhite" alt="mpqm" /> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpqm&layout=donut&locale=us&theme=graywhite&show_icons=true" alt="mpqm" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mpqm&show_icons=true&locale=us&theme=graywhite" alt="mpqm" /> 
 </div>
 
 * * *
