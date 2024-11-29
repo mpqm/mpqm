@@ -19,10 +19,11 @@
   |**BlockChain**| ![HyperLedgerFabric](https://img.shields.io/badge/HyperLedgerFabric-2496ED?style=for-the-badge&logo=HyperLedgerFabric&logoColor=white) |
   |**Contact**| ![Tistory](https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white) ![Gmail](https://img.shields.io/badge/okqkrwhdtjd@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white) ![NAVER](https://img.shields.io/badge/okqkrwhdtjd@naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white) 
   
- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmpqm%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
- 
-  <img width="250px" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpqm&layout=donut&theme=graywhite&show_icons=true" alt="mpqm" />
-  <img width="250px" height="180px" src="https://github-readme-stats.vercel.app/api?username=mpqm&show_icons=true&theme=graywhite" alt="mpqm" /> 
-  <img width="250px" height="180px" src="https://render.gitanimals.org/farms/mpqm"/>
-  
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpqm&layout=donut&theme=graywhite&show_icons=true" alt="mpqm" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=mpqm&show_icons=true&theme=graywhite" alt="mpqm" /> 
+  <img height="180px" src="https://render.gitanimals.org/farms/mpqm"/>
+  <img height="180px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=mpqm"/>
+
+   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmpqm%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+   
 </div>
